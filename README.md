@@ -1,1 +1,1 @@
-# Multi-omica-skin-cancer-prediction
+# Multi-omics-skin-cancer-prediction
